@@ -1,3 +1,5 @@
+**This project was moved to https://github.com/abaldeweg/services/tree/main/devcontainer_features**
+
 # Devcontainer Features
 
 Personal and opinionated collection of features for devcontainer.
